@@ -38,8 +38,8 @@ The run_analysis.R module performs data cleaning and creates a tidy data followi
 4. Labels the data sets with descriptive variable names with the 561 features provided in the 
    features.txt file.
 5. Extracts only the mean and standard deviation measurements in  each record
-   by subsetting the measurement columns to include only the measurement contains *std*, 
-   *mean*, *Std*, *Mean* variables.
+   by subsetting the measurement columns to include only the measurement contains '*std*', 
+   '*mean*', '*Std*', '*Mean*' variables.
 6. From the resulting cleaned data set, creates an independentt tidy data set with the average of each
    variable for each activity and each subject.
    
