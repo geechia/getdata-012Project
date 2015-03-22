@@ -1,5 +1,5 @@
 ==================================================================
-Coursera course project : Getting and Cleaning Data Project Codebook
+Getting and Cleaning Data Project Codebook
 ==================================================================
 
 This project is to analyse the randomly partitioned training and test data sets collected from
